@@ -1,35 +1,28 @@
 ---
 sidebar_position: 1
 ---
+# Summary
 
-# Tutorial Intro
+* 8 Years of experience developing great Full stackWeb Applications.
+* Experience in React, Node, Nest, Flask, Django Frameworks.
+* Experience in Docker, AWS and Kubernetes.
+* Experience in managing CI/CD pieplines with Jenkins, docker-compose and yaml.
+* Experience working in Agile Methodologies based work environmen
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Skills
 
-## Getting Started
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+* Python
+* Javascript
+* React JS
+* Node JS
+* PHP
+* ZEND Framework
+* Flask
+* Django
+* Cube JS
+* MongoDB
+* JQuery
+* Rest API
+* Cypress
+* Jest
